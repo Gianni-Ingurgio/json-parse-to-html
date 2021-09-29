@@ -1,0 +1,19 @@
+{
+  "name": "json-parse-to-html",
+  "version": "1.0.0",
+  "description": "allows parsing of rest apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gianni-Ingurgio/json-parse-to-html.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gianni-Ingurgio/json-parse-to-html/issues"
+  },
+  "homepage": "https://github.com/Gianni-Ingurgio/json-parse-to-html#readme"
+}
