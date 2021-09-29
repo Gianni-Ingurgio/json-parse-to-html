@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Gianni-Ingurgio/json-parse-to-html/issues"
   },
-  "homepage": "https://github.com/Gianni-Ingurgio/json-parse-to-html#readme"
+  "homepage": "https://github.com/Gianni-Ingurgio/json-parse-to-html#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^3.0.0"
+  }
 }
