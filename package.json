@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Gianni-Ingurgio/json-parse-to-html#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "node-fetch": "^3.0.0"
+    "node-fetch": "^2.6.5"
   }
 }
